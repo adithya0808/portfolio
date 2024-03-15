@@ -17,7 +17,11 @@ const Projects = () => {
                 <p className='para2'>Discover, Learn, Enjoy! 💪🌟</p>
                 <p className='para3'>Engage in a quick and fun knowledge boost with our simple quiz app. Choose a category, answer questions, and challenge your intellect effortlessly. </p>
                 <p className="para4">HTML,CSS,React.js</p>
+<<<<<<< HEAD
                 <a href="/home" className='git1'>Soon</a>
+=======
+                <a href="" className='git1'>Soon</a>
+>>>>>>> aec5bf114a1b975a51f471dcdef8dab8286b3b58
             </div>
             <div className="card">
                 <p className='text1'>Discount calculator</p>
@@ -31,7 +35,11 @@ const Projects = () => {
                 <p className='para2'>Discover, Learn, Enjoy! 📖🌟</p>
                 <p className='para3'>Engage in a quick and knowledge boost with our Magazine app. Choose a category, read the magazine gain knowledge. </p>
                 <p className="para4">HTML,CSS,React.js</p>
+<<<<<<< HEAD
                 <a href="" className='git1'>Git repo</a>
+=======
+                <a href="https://github.com/adithya0808/magazine.git" className='git1'>Git repo</a>
+>>>>>>> aec5bf114a1b975a51f471dcdef8dab8286b3b58
             </div>
         </div>
     </div>
