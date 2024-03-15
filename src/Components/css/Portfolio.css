@@ -44,7 +44,7 @@
 }
 .home{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 .left{
     width: 70%;
@@ -214,5 +214,9 @@ h5{
 @media screen and (min-width:600px){
     .nav-links{
         display: flex;
+    }
+    .home{
+        display: flex;
+        flex-direction: row;
     }
 }
