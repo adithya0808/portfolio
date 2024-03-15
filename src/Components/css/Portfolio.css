@@ -69,6 +69,7 @@
 .mypic{
     width: 350px;
     margin: 31px;
+    margin-left: 50px;
 }
 .highlight{
     font-weight: 400;
@@ -218,5 +219,9 @@ h5{
     .home{
         display: flex;
         flex-direction: row;
+    }
+    .mypic{
+        width: 350px;
+        margin: 31px;
     }
 }
