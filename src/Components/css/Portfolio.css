@@ -18,6 +18,11 @@
     background-color: #424B54;
     color: #FFFFFF;
 }
+.bar{
+    width: 60px;
+    height: 60px;
+    margin-right: 5px;
+}
 .logo{
     width: 200px;
     font-size: 40px;
@@ -26,7 +31,7 @@
 
 .nav-links{
     list-style: none;
-    display: flex;
+    display: none;
     gap: 3rem;
     padding: 10px;
     text-decoration: none;
@@ -193,4 +198,20 @@ h5{
     gap: 3rem;
     padding: 10px;
     text-decoration: none;
+}
+
+
+
+/* responsive update */
+@media screen and (min-width:320px){
+    .nav-links{
+        display: none;
+    }
+}
+
+
+@media screen and (min-width:600px){
+    .nav-links{
+        display: flex;
+    }
 }
