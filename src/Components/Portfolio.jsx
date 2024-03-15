@@ -11,6 +11,7 @@ const Portfolio = () => {
         <Nav/>
         <Home/>
         <About/>
+        
         <Projects/>
         <Contact/>
     </div>
